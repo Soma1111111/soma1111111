@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%40+IIIT+Bangalore+%F0%9F%8E%93;Python+%7C+C+%7C+Java+%F0%9F%92%BB;Building+games+and+ML+projects+%F0%9F%8E%AE;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%40+IIIT+Bangalore+%F0%9F%8E%93;Python+%7C+Java+%7C+C%2B%2B+%7C+AI+%F0%9F%92%BB;Building+games+and+ML+projects+%F0%9F%8E%AE;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/Soma1111111?style=for-the-badge&logo=github&color=8957e5)](https://github.com/Soma1111111)
 [![Repos](https://img.shields.io/badge/Repositories-19-f5a623?style=for-the-badge&logo=github)](https://github.com/Soma1111111?tab=repositories)
@@ -18,8 +18,8 @@ const me = {
   name: "T Soma Datta",
   college: "International Institute of Information Technology, Bangalore",
   location: "Bengaluru, India 🇮🇳",
-  languages: ["Python", "C", "Java"],
-  interests: ["Game Development", "Operating Systems", "Machine Learning"],
+  languages: ["Python", "Java", "C", "C++"],
+  interests: ["Agentic AI", "Machine Learning", "Backend Development", "Game Development"],
   currentlyLearning: ["Data Structures & Algorithms", "Machine Learning", "Open Source"],
   funFact: "I like building things that I can actually play or use 🎮",
 };
@@ -31,7 +31,18 @@ const me = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,git,github,linux,vscode&theme=dark" alt="skills"/>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="languages"/>
+
+**Backend & Web**<br>
+<img src="https://skillicons.dev/icons?i=react,spring,fastapi,flask&theme=dark" alt="backend"/>
+
+**Data Science & AI**<br>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow&theme=dark" alt="data and ai"/><br>
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00F7FF?style=for-the-badge&logo=openai&logoColor=black)
+
+**DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode&theme=dark" alt="devops"/>
 
 </div>
 
