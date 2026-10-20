@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:111827,50:064e3b,100:0e7490&text=SOMA%20%2F%2F%20DIGITAL%20WORKSHOP&fontColor=ecfeff&fontSize=34&fontAlignY=42&desc=Curiosity%20in.%20Useful%20things%20out.&descAlignY=68&descSize=16" width="100%" alt="Soma's digital workshop banner" />
 
-### `soma1111111` &nbsp;·&nbsp; making, learning, iterating
+### `soma` &nbsp;·&nbsp; making, learning, iterating
 
 ![Profile views](https://komarev.com/ghpvc/?username=soma1111111&style=flat-square&color=14b8a6&label=VISITORS)
 
