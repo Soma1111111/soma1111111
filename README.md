@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%40+IIIT+Bangalore+%F0%9F%8E%93;Python+%7C+C+%7C+Java+%F0%9F%92%BB;Building+games+and+ML+projects+%F0%9F%8E%AE;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Soma1111111&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Soma1111111?style=for-the-badge&logo=github&color=8957e5)](https://github.com/Soma1111111)
 [![Repos](https://img.shields.io/badge/Repositories-19-f5a623?style=for-the-badge&logo=github)](https://github.com/Soma1111111?tab=repositories)
 
@@ -32,7 +31,7 @@ const me = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,jupyter,git,github,linux,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,git,github,linux,vscode&theme=dark" alt="skills"/>
 
 </div>
 
@@ -69,12 +68,10 @@ const me = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soma1111111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soma1111111&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Soma1111111&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soma1111111&layout=compact&hide=jupyter%20notebook&theme=tokyonight&hide_border=true" alt="languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soma1111111&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soma1111111&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -98,7 +95,10 @@ const me = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Soma1111111&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7)
+![IIIT Bangalore](https://img.shields.io/badge/IIIT-Bangalore-0e75b6?style=for-the-badge&logo=academia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Repos](https://img.shields.io/badge/19-Repositories-8957e5?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
