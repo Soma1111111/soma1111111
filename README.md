@@ -54,10 +54,10 @@ const me = {
 
 | 🔥 Project | 📝 What it is | 🧰 Stack |
 |:--|:--|:--|
-| **[PygameHacknite](https://github.com/Soma1111111/PygameHacknite)** | A game built with Pygame | `Python` `Pygame` |
-| **[OS-lab](https://github.com/Soma1111111/OS-lab)** | Operating Systems lab programs | `C` |
-| **[Image_editor](https://github.com/Soma1111111/Image_editor)** | An image editing application | `Java` |
-| **[Diabetes Prediction](https://github.com/Soma1111111/diabetes-prediction-diabetes-dataset)** | ML model that predicts diabetes from a dataset | `Python` `Jupyter` |
+| **[Sigma Agent](https://github.com/Sumit884-byte/sigmaAgent)** | An agentic AI project| `Python` `Agentic AI` `Falkor db`|
+| **[TriteroSync]** | Database Synchronization project | `Python` |
+| **[VQA Project]** | Visual Question Answering: answers natural-language questions about images | `Python` `PyTorch` |
+| **[Image Editor](https://github.com/Soma1111111/Image_editor)** | An image editing application | `Java` |
 
 </div>
 
